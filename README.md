@@ -15,6 +15,4 @@ Packages need to be installed:
       
       random
  
-Downloading from this link to make project working offline :
-
-                  https://alphacephei.com/vosk/models
+Downloading from this link to make project working offline :      https://alphacephei.com/vosk/models
