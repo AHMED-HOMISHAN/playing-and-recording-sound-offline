@@ -4,7 +4,7 @@ from vosk import Model,KaldiRecognizer
 import pyaudio
 import random
 
-model = Model(r"vosk-model-small-en-us-0.15")
+model = Model(r"vosk-model-small-en-us-0.15") #downloaded files
 recognizer = KaldiRecognizer(model,16000)
 wel = pyttsx3.init()
 voices = wel.getProperty('voices')
