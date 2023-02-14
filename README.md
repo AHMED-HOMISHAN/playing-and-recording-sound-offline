@@ -1,7 +1,9 @@
-# playing-and-recording-sound-
+# playing-and-recording-sound-offline
 simple playing and recording sound  in python such as google assistant , Siri offline
 
-Packages :
+# Requirements
+
+Packages need to be installed:
 
       pyttsx3
       
@@ -13,3 +15,6 @@ Packages :
       
       random
  
+Downloading from this link to make project working offline :
+
+                  https://alphacephei.com/vosk/models
